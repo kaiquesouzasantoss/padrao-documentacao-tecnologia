@@ -1,4 +1,4 @@
-# Documentação Técnica de Projeto DevOps / CI-CD
+<h1 align=center>Documentação Técnica de Projeto DevOps / CI-CD</h1>
 
 ## Índice
 - [Visão Geral do Projeto](#visão-geral-do-projeto)
