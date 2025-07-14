@@ -1,4 +1,4 @@
-# Documentação Técnica de API GraphQL
+<h1 align=center>Documentação Técnica de API GraphQL</h1>
 
 ## Índice
 - [Visão Geral da API GraphQL](#visao-geral-da-api-graphql)
