@@ -95,6 +95,11 @@
 
 ---
 ## Componentes Desenvolvidos
+
+| **Método/Componente**                    | **Descrição**                                                                 |
+|------------------------------|------------------------------------------------------------------------------|
+| `nome`                | xxxx.      |
+---
 **Objetivo:** Listar e descrever os componentes criados.
 
 **O que deve conter:**
@@ -118,7 +123,13 @@
 **Perguntas orientadoras:**
 - Quais decisões o robô precisa tomar?
 - Como ele deve reagir a erros?
+- 
+---
+## Parâmetros
 
+| **Rotina**     | **Parâmetros**                                                                 | **Descrição Funcional**                                                                 |
+|----------------------------------|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| `método`                    | *lista de campos necessários*                                                                     | xxxx.                                          
 ---
 ## Segurança e Conformidade
 **Objetivo:** Garantir que a automação esteja em conformidade com políticas de segurança.
