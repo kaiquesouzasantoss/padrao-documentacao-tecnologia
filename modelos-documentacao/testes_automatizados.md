@@ -1,4 +1,4 @@
-# Documentação Técnica de Testes Automatizados (QA)
+<h1 align=center>Documentação Técnica de Testes Automatizados (QA)</h1>
 
 ## Índice
 - [Visão Geral da Estratégia de Testes](#visão-geral-da-estratégia-de-testes)
