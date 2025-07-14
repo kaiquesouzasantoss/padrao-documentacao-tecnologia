@@ -1,4 +1,4 @@
-# Documentação Técnica de Projeto com Arduino
+<h1 align=center>Documentação Técnica de Projeto com Arduino</h1>
 
 ## Índice
 - [Visão Geral do Projeto](#visao-geral-do-projeto)
