@@ -1,4 +1,4 @@
-# Documentação Técnica de Projeto Front-end
+<h1 align=center>Documentação Técnica de Projeto Front-end</h1>
 
 ## Índice
 - [Visão Geral do Projeto](#visão-geral-do-projeto)
