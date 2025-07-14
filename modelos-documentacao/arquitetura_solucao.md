@@ -1,4 +1,4 @@
-# Documentação Técnica de Arquitetura de Solução
+<h1 align=center>Documentação Técnica de Arquitetura de Solução</h1>
 
 ## Índice
 - [Visão Geral da Solução](#visão-geral-da-solução)
