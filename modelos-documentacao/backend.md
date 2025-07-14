@@ -1,4 +1,4 @@
-# Documentação Técnica de Projeto Back-end
+<h1 align=center>Documentação Técnica de Projeto Back-end</h1>
 
 ## Índice
 - [Documentação Técnica de Projeto Back-end](#documentacao-tecnica-de-projeto-back-end)
