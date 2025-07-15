@@ -136,35 +136,16 @@ Conhecer as personas que interagem com seu sistema é essencial para criar uma d
 
 > _“A documentação é o diário de bordo de quem constrói o futuro.”_
 
-1. **Documente como se fosse você daqui a 5 anos lendo**  
-   _Você vai esquecer. Confie em mim._
-
-2. **Não confie na memória. Confie na documentação.**  
-   _A mente falha. O Markdown não._
-
-3. **Automatize o que for possível**  
-   _Use ferramentas como Swagger, Mermaid, GitHub Actions._
-
-4. **Documentação é parte do código. Trate com o mesmo rigor.**  
-   _Revise, versiona, teste._
-
-5. **Seja generoso com o próximo**  
-   _Alguém vai manter seu sistema. Ajude essa pessoa._
-
-6. **Evite o ego. Explique o básico.**  
-   _O óbvio para você pode ser o bloqueio de outro._
-
-7. **Revisite sua documentação periodicamente**  
-   _Inclua revisões trimestrais no backlog._
-
-8. **Use exemplos reais**  
-   _Eles conectam teoria à prática._
-
-9. **Padronize**  
-   _Crie templates, checklists e nomenclaturas consistentes._
-
-10. **Nunca subestime o poder de um bom diagrama**  
-   _Ele comunica o que palavras não conseguem._
+1. **Documente como se fosse você daqui a 5 anos lendo**  - _Você vai esquecer. Confie em mim._
+2. **Não confie na memória. Confie na documentação.**  - _A mente falha. O Markdown não._
+3. **Automatize o que for possível**  - _Use ferramentas como Swagger, Mermaid, GitHub Actions._
+4. **Documentação é parte do código. Trate com o mesmo rigor.**  - _Revise, versiona, teste._
+5. **Seja generoso com o próximo**  - _Alguém vai manter seu sistema. Ajude essa pessoa._
+6. **Evite o ego. Explique o básico.**  -   _O óbvio para você pode ser o bloqueio de outro._
+7. **Revisite sua documentação periodicamente**  - _Inclua revisões trimestrais no backlog._
+8. **Use exemplos reais**  - _Eles conectam teoria à prática._
+9. **Padronize**  - _Crie templates, checklists e nomenclaturas consistentes._
+10. **Nunca subestime o poder de um bom diagrama**  - _Ele comunica o que palavras não conseguem._
 
 ---
 ## Artefatos
