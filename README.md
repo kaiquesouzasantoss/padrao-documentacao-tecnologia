@@ -154,7 +154,7 @@ Conhecer as personas que interagem com seu sistema é essencial para criar uma d
     - [Back-End](https://github.com/kaiquesouzasantoss/padrao-documentacao-tecnologia/blob/main/modelos-documentacao/backend.md)
     - [Front-End](https://github.com/kaiquesouzasantoss/padrao-documentacao-tecnologia/blob/main/modelos-documentacao/frontend.md)
     - [Mobile](https://github.com/kaiquesouzasantoss/padrao-documentacao-tecnologia/blob/main/modelos-documentacao/mobile.md)
-    - [RPA](https://github.com/kaiquesouzasantoss/padrao-documentacao-tecnologia/tree/blob/modelos-documentacao/rpa.md)
+    - [RPA](https://github.com/kaiquesouzasantoss/padrao-documentacao-tecnologia/blob/main/modelos-documentacao/rpa.md)
     - [Arduino](https://github.com/kaiquesouzasantoss/padrao-documentacao-tecnologia/blob/main/modelos-documentacao/arduino.md)
     - [Testes](https://github.com/kaiquesouzasantoss/padrao-documentacao-tecnologia/blob/main/modelos-documentacao/testes_automatizados.md)
     - [DevOps](https://github.com/kaiquesouzasantoss/padrao-documentacao-tecnologia/blob/main/modelos-documentacao/devops.md)
