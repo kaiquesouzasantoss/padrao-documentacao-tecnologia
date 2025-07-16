@@ -1,4 +1,4 @@
-# Padrões de Vesionamento Semântico
+# Padrões de Veesionamento Semântico
 
 O versionamento semântico é uma prática essencial no desenvolvimento de software moderno. Ele estabelece uma convenção clara e padronizada para nomear versões de sistemas, bibliotecas e APIs, facilitando a comunicação entre desenvolvedores, equipes e usuários finais.
 
