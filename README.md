@@ -1,5 +1,6 @@
 <h1 align=center>Padrões de Documentação de Tecnologia</h1>
 
+---
 ## A Importância de uma Boa Documentação
 
 A documentação técnica é um dos pilares fundamentais para o sucesso, a **longevidade** e a **escalabilidade** de qualquer sistema de software. Embora frequentemente negligenciada em ambientes de alta pressão por entregas rápidas, sua ausência ou má qualidade compromete diretamente a manutenção, a evolução e a confiabilidade de soluções tecnológicas. Documentar não é apenas registrar o que foi feito, mas sim construir um repositório de conhecimento que transcende pessoas, equipes e ciclos de projeto.
