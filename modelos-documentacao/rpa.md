@@ -123,7 +123,7 @@
 **Perguntas orientadoras:**
 - Quais decisões o robô precisa tomar?
 - Como ele deve reagir a erros?
-- 
+  
 ---
 ## Parâmetros
 
